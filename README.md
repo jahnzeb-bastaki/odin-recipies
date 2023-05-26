@@ -1,1 +1,1 @@
-# OdinProject - Recipies
+# Odin Project - Recipies
